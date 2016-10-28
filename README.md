@@ -30,3 +30,5 @@ Import the root folder into your IDE (tested on Android Studio), then run projec
 ### Localization
 
 We moved all translations to https://www.transifex.com/projects/p/telegram/. Please use it.
+
+test 123
